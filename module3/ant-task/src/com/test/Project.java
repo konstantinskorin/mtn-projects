@@ -1,6 +1,6 @@
 package com.test;
 
-//dependency on Apache commons-collections1
+//dependency on Apache commons-collections
 import org.apache.commons.collections.Predicate;
 
 class Project {

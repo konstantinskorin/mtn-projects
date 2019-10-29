@@ -1,4 +1,4 @@
-package com.test;
+#package com.test;
 
 //dependency on Apache commons-collections123
 import org.apache.commons.collections.Predicate;
